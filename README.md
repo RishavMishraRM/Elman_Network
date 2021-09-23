@@ -8,3 +8,5 @@ Data is also in this file. You need ipython notebook to open this.
 
 
 
+<img src="elman0.png">
+<img src="elman1.png">
